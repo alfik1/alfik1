@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alfik Majeed,Nice Meeting You 😊✨</h1>
+<h1 align="center">Hi 👋, I'm Alfik Majeed,Nice Meeting You ✨</h1>
 <h3 align="center">Bringing ideas to Life 💻👨‍💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfik1&label=Profile%20views&color=0e75b6&style=flat" alt="alfik1" /> </p>
 
