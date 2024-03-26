@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **Python-Django and Front end development**
 
-- 🌱 I’m currently learning **Django,Angular and more**
-
 - 👨‍💻 All of my projects are available at [https://github.com/alfik1](https://github.com/alfik1)
 
 - 💬 Ask me about **python,django,angular**
